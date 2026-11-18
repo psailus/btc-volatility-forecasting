@@ -55,7 +55,7 @@ A negative mean difference means Model A has the lower loss. HAC standard errors
 
 Every claimed finding survives a Bonferroni correction for 10 tests (threshold 0.005).
 
-![Bitcoin realized volatility history](images/realized_vol.png)
+![Bitcoin realized volatility history](03_gold.png)
 
 ---
 
