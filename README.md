@@ -191,8 +191,7 @@ notebooks/
   05_garch            GARCH(1,1) and GJR-GARCH walk-forward forecasts
   06_evaluation       Leaderboard and Diebold-Mariano tests
   07_lightgbm         LightGBM, HAR + weekend, HAR-X, feature importance
-images/
-  realized_vol.png
+03_gold.png
 README.md
 ```
 
